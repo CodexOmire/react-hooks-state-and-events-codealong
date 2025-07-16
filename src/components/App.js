@@ -1,10 +1,10 @@
 import React from "react";
-import Toggle from "./Toggle";
+import Toggle from "./components/Toggle";
 
 function App() {
   return (
     <div>
-      <h3>Toggle</h3>
+      <h1>React State and Events Lab</h1>
       <Toggle />
     </div>
   );
